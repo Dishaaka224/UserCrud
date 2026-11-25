@@ -1,0 +1,14 @@
+/Users/maos/Documents/Projects/study/UserCrud/bin/Debug/net10.0/UserCrud
+/Users/maos/Documents/Projects/study/UserCrud/bin/Debug/net10.0/UserCrud.deps.json
+/Users/maos/Documents/Projects/study/UserCrud/bin/Debug/net10.0/UserCrud.runtimeconfig.json
+/Users/maos/Documents/Projects/study/UserCrud/bin/Debug/net10.0/UserCrud.dll
+/Users/maos/Documents/Projects/study/UserCrud/bin/Debug/net10.0/UserCrud.pdb
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.AssemblyInfoInputs.cache
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.AssemblyInfo.cs
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.csproj.CoreCompileInputs.cache
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.dll
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/refint/UserCrud.dll
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.pdb
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/UserCrud.genruntimeconfig.cache
+/Users/maos/Documents/Projects/study/UserCrud/obj/Debug/net10.0/ref/UserCrud.dll
