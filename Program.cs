@@ -1,3 +1,3 @@
 ﻿using System;
-namespace ConsoleUserCrud;
+namespace ConsoleUserCrud.Models;
 
